@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Quick Bike Services</string>
+    <string name="hero_bike">Hero</string>
+    <string name="tvs_bike">TVS</string>
+    <string name="Honda_bike">Honda</string>
+    <string name="Bajaj_bike">Bajaj</string>
+    <string name="all_bike">General</string>
+</resources>
