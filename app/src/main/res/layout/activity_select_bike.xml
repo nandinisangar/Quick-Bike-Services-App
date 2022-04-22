@@ -5,20 +5,20 @@
     android:layout_width="match_parent"
     android:layout_height="match_parent"
     tools:context=".Select_Bike"
-    android:background="@drawable/bgimg"
+    android:background="@drawable/wallpaper"
     android:gravity="center">
 
     <TextView
         android:id="@+id/textview_selectbike"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
+        android:layout_marginBottom="20dp"
         android:layout_marginEnd="20dp"
         android:layout_marginStart="20dp"
-        android:layout_marginBottom="20dp"
         android:gravity="center"
         android:text="Quick Bike Services"
         android:textAlignment="center"
-        android:textColor="#E3DDDD"
+        android:textColor="@color/white"
         android:textSize="43sp"
         android:textStyle="bold" />
 
@@ -34,11 +34,13 @@
             android:id="@+id/click_bike"
             android:orientation="vertical"
             android:layout_width="match_parent"
+            android:gravity="center"
+            android:layout_gravity="center"
             android:layout_height="wrap_content">
             <ImageView
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
-                android:src="@drawable/selectbikeimg"/>
+                android:src="@drawable/bikeimg"/>
             <TextView
                 android:layout_gravity="center"
                 android:layout_width="wrap_content"

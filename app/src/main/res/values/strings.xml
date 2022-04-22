@@ -4,5 +4,5 @@
     <string name="tvs_bike">TVS</string>
     <string name="Honda_bike">Honda</string>
     <string name="Bajaj_bike">Bajaj</string>
-    <string name="all_bike">General</string>
+    <string name="all_bike">Other</string>
 </resources>

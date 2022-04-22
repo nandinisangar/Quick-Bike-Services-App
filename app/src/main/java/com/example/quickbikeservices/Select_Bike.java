@@ -13,6 +13,7 @@ public class Select_Bike extends AppCompatActivity {
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_select_bike);
+        getSupportActionBar().hide();
         l = findViewById(R.id.click_bike);
         l.setOnClickListener(new View.OnClickListener() {
             @Override
