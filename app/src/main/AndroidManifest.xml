@@ -10,6 +10,18 @@
         android:supportsRtl="true"
         android:theme="@style/Theme.QuickBikeServices">
         <activity
+            android:name=".otheractivity"
+            android:exported="false" />
+        <activity
+            android:name=".bajajactivity"
+            android:exported="false" />
+        <activity
+            android:name=".Hondactivity"
+            android:exported="false" />
+        <activity
+            android:name=".heroactivity"
+            android:exported="false" />
+        <activity
             android:name=".Homepage"
             android:exported="false" />
         <activity

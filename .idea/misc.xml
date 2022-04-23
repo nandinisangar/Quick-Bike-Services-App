@@ -3,8 +3,12 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
+        <entry key="..\:/QuickBikeServices/app/src/main/res/layout/activity_bajajactivity.xml" value="0.25" />
+        <entry key="..\:/QuickBikeServices/app/src/main/res/layout/activity_heroactivity.xml" value="0.25" />
         <entry key="..\:/QuickBikeServices/app/src/main/res/layout/activity_homepage.xml" value="0.264" />
+        <entry key="..\:/QuickBikeServices/app/src/main/res/layout/activity_hondactivity.xml" value="0.25" />
         <entry key="..\:/QuickBikeServices/app/src/main/res/layout/activity_main.xml" value="0.25" />
+        <entry key="..\:/QuickBikeServices/app/src/main/res/layout/activity_otheractivity.xml" value="0.25" />
         <entry key="..\:/QuickBikeServices/app/src/main/res/layout/activity_select_bike.xml" value="0.25" />
         <entry key="..\:/QuickBikeServices/app/src/main/res/layout/activity_select_brand.xml" value="0.25" />
       </map>

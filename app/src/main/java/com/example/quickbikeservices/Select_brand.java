@@ -21,7 +21,7 @@ CardView cv1 , cv2,cv3,cv4;
         cv1.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View view) {
-                Intent i = new Intent(Select_brand.this,Homepage.class);
+                Intent i = new Intent(Select_brand.this,heroactivity.class);
                 startActivity(i);
             }
         });
@@ -29,7 +29,7 @@ CardView cv1 , cv2,cv3,cv4;
         cv2.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View view) {
-                Intent i = new Intent(Select_brand.this,Homepage.class);
+                Intent i = new Intent(Select_brand.this,Hondactivity.class);
                 startActivity(i);
             }
         });
@@ -37,14 +37,14 @@ CardView cv1 , cv2,cv3,cv4;
         cv3.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View view) {
-                Intent i = new Intent(Select_brand.this,Homepage.class);
+                Intent i = new Intent(Select_brand.this,bajajactivity.class);
                 startActivity(i);
             }
         });
         cv4.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View view) {
-                Intent i = new Intent(Select_brand.this,Homepage.class);
+                Intent i = new Intent(Select_brand.this,otheractivity.class);
                 startActivity(i);
             }
         });
